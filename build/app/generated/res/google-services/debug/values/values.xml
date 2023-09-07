@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">374739068659-8qfnh98flsrpmrl9kptftlm42hv83lsv.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">374739068659</string>
+    <string name="google_api_key" translatable="false">AIzaSyAmloNe5g6zD4M7nFNmlZGH78qA-vJY5xc</string>
+    <string name="google_app_id" translatable="false">1:374739068659:android:89a808d61f682f2a3ab986</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAmloNe5g6zD4M7nFNmlZGH78qA-vJY5xc</string>
+    <string name="google_storage_bucket" translatable="false">websticker-f1abe.appspot.com</string>
+    <string name="project_id" translatable="false">websticker-f1abe</string>
+</resources>

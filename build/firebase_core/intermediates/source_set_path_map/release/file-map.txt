@@ -1,0 +1,14 @@
+io.flutter.plugins.firebase.core.firebase_core-jetified-play-services-basement-18.1.0-0 C:\Users\HIMANSHU  CHAUDHARY\.gradle\caches\transforms-3\0a2d880f0c135b51081ebcfd7c9d00f3\transformed\jetified-play-services-basement-18.1.0\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-java-1.0.0-beta04-1 C:\Users\HIMANSHU  CHAUDHARY\.gradle\caches\transforms-3\1ab2fa80a07ee208fbcb24f1da84ee0e\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.core.firebase_core-core-1.6.0-2 C:\Users\HIMANSHU  CHAUDHARY\.gradle\caches\transforms-3\4e5d82e5a4af7000fc32f970b598273e\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-1.0.0-beta04-3 C:\Users\HIMANSHU  CHAUDHARY\.gradle\caches\transforms-3\d1874c397e5d73ca2692b95e49b4ce4e\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-annotation-experimental-1.1.0-4 C:\Users\HIMANSHU  CHAUDHARY\.gradle\caches\transforms-3\e3f72007886575bf36c6d303408a2981\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-firebase-common-20.3.3-5 C:\Users\HIMANSHU  CHAUDHARY\.gradle\caches\transforms-3\e9509f2fa65dfd5912a52b26a0afe1c0\transformed\jetified-firebase-common-20.3.3\res
+io.flutter.plugins.firebase.core.firebase_core-pngs-6 C:\Users\HIMANSHU  CHAUDHARY\AndroidStudioProjects\websitesticker\build\firebase_core\generated\res\pngs\release
+io.flutter.plugins.firebase.core.firebase_core-resValues-7 C:\Users\HIMANSHU  CHAUDHARY\AndroidStudioProjects\websitesticker\build\firebase_core\generated\res\resValues\release
+io.flutter.plugins.firebase.core.firebase_core-rs-8 C:\Users\HIMANSHU  CHAUDHARY\AndroidStudioProjects\websitesticker\build\firebase_core\generated\res\rs\release
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-9 C:\Users\HIMANSHU  CHAUDHARY\AndroidStudioProjects\websitesticker\build\firebase_core\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-10 C:\Users\HIMANSHU  CHAUDHARY\AndroidStudioProjects\websitesticker\build\firebase_core\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.core.firebase_core-merged_res-11 C:\Users\HIMANSHU  CHAUDHARY\AndroidStudioProjects\websitesticker\build\firebase_core\intermediates\merged_res\release
+io.flutter.plugins.firebase.core.firebase_core-main-12 C:\Users\HIMANSHU  CHAUDHARY\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-2.15.1\android\src\main\res
+io.flutter.plugins.firebase.core.firebase_core-release-13 C:\Users\HIMANSHU  CHAUDHARY\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-2.15.1\android\src\release\res

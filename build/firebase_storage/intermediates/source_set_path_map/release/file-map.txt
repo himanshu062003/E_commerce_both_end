@@ -1,0 +1,16 @@
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-play-services-basement-18.1.0-0 C:\Users\HIMANSHU  CHAUDHARY\.gradle\caches\transforms-3\0a2d880f0c135b51081ebcfd7c9d00f3\transformed\jetified-play-services-basement-18.1.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-window-java-1.0.0-beta04-1 C:\Users\HIMANSHU  CHAUDHARY\.gradle\caches\transforms-3\1ab2fa80a07ee208fbcb24f1da84ee0e\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.storage.firebase_storage-core-1.6.0-2 C:\Users\HIMANSHU  CHAUDHARY\.gradle\caches\transforms-3\4e5d82e5a4af7000fc32f970b598273e\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-play-services-base-18.0.1-3 C:\Users\HIMANSHU  CHAUDHARY\.gradle\caches\transforms-3\99d1a034d3882d9cc61215dc0dcd3cc7\transformed\jetified-play-services-base-18.0.1\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-window-1.0.0-beta04-4 C:\Users\HIMANSHU  CHAUDHARY\.gradle\caches\transforms-3\d1874c397e5d73ca2692b95e49b4ce4e\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-annotation-experimental-1.1.0-5 C:\Users\HIMANSHU  CHAUDHARY\.gradle\caches\transforms-3\e3f72007886575bf36c6d303408a2981\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-firebase-common-20.3.3-6 C:\Users\HIMANSHU  CHAUDHARY\.gradle\caches\transforms-3\e9509f2fa65dfd5912a52b26a0afe1c0\transformed\jetified-firebase-common-20.3.3\res
+io.flutter.plugins.firebase.storage.firebase_storage-packaged_res-7 C:\Users\HIMANSHU  CHAUDHARY\AndroidStudioProjects\websitesticker\build\firebase_core\intermediates\packaged_res\release
+io.flutter.plugins.firebase.storage.firebase_storage-pngs-8 C:\Users\HIMANSHU  CHAUDHARY\AndroidStudioProjects\websitesticker\build\firebase_storage\generated\res\pngs\release
+io.flutter.plugins.firebase.storage.firebase_storage-resValues-9 C:\Users\HIMANSHU  CHAUDHARY\AndroidStudioProjects\websitesticker\build\firebase_storage\generated\res\resValues\release
+io.flutter.plugins.firebase.storage.firebase_storage-rs-10 C:\Users\HIMANSHU  CHAUDHARY\AndroidStudioProjects\websitesticker\build\firebase_storage\generated\res\rs\release
+io.flutter.plugins.firebase.storage.firebase_storage-mergeReleaseResources-11 C:\Users\HIMANSHU  CHAUDHARY\AndroidStudioProjects\websitesticker\build\firebase_storage\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.storage.firebase_storage-mergeReleaseResources-12 C:\Users\HIMANSHU  CHAUDHARY\AndroidStudioProjects\websitesticker\build\firebase_storage\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.storage.firebase_storage-merged_res-13 C:\Users\HIMANSHU  CHAUDHARY\AndroidStudioProjects\websitesticker\build\firebase_storage\intermediates\merged_res\release
+io.flutter.plugins.firebase.storage.firebase_storage-main-14 C:\Users\HIMANSHU  CHAUDHARY\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage-11.2.6\android\src\main\res
+io.flutter.plugins.firebase.storage.firebase_storage-release-15 C:\Users\HIMANSHU  CHAUDHARY\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage-11.2.6\android\src\release\res

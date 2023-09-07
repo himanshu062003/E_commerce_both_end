@@ -1,0 +1,59 @@
+{
+  "categories":[
+    {
+      "name": "Women Collections" ,
+      "subcategory": [
+             "Saree",
+        "Western",
+        "Fashion",
+        "Jackets",
+        "Salwar Suits",
+        "Shoes"
+      ]
+    },
+    {
+      "name": "Men Collections" ,
+      "subcategory": [
+        "T-shirts",
+        "Shirts",
+        "Denim jeans",
+        "Sports Wear",
+        "Traditional",
+        "Ethnic Wear",
+        "Suit & Blazers",
+        "Shoes"
+      ]
+    },
+    {
+      "name": "Home Cleaning Items" ,
+      "subcategory": [
+        "Paint & Exterior Care",
+        "Cleaning Kits",
+        "Glass Care",
+        "Rim Care",
+        "Engine Care",
+        "Rust Prevention",
+        "Interior Care",
+        "Tyre & Rim Care"
+      ]
+    },
+    {
+      "name": "Bedsheets,Curtains & more" ,
+      "subcategory": [
+        "Bedsheets",
+        "Curtains",
+        "Towels",
+        "Sofa & chair cover",
+        "Pillow set",
+        "Kids furshing",
+        "Carpets",
+        "rugs & doormats",
+        "Cushion & Cushion covers"
+      ]
+    }
+  ]
+}
+
+
+
+

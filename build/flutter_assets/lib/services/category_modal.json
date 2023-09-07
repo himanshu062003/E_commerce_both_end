@@ -1,0 +1,62 @@
+{
+  "categories":[
+    {
+      "name": "Mobile Covers" ,
+      "subcategory": [
+             "Plane Covers",
+        "Custom Made",
+        "Anime Covers",
+        "IIT",
+        "IIT ROORKEE"
+      ]
+    },
+    {
+      "name": "Stickers" ,
+      "subcategory": [
+        "Cartoon",
+        "Anime",
+        "Coding",
+        "IIT",
+        "IIT ROORKEE",
+        "Motivational",
+        "Funny",
+        "Meme"
+      ]
+    },
+    {
+      "name": "Laptop`s Stickers" ,
+      "subcategory": [
+        "Marvel",
+        "DC",
+        "Cartoon",
+        "Anime",
+        "Coding",
+        "IIT",
+        "IIT ROORKEE",
+        "Motivational",
+        "Funny",
+        "Meme"
+      ]
+    },
+    {
+      "name": "Laptop`s Cover" ,
+      "subcategory": [
+        "Marvel",
+        "Panda",
+        "DC",
+        "Cartoon",
+        "Anime",
+        "Coding",
+        "IIT",
+        "IIT ROORKEE",
+        "Motivational",
+        "Funny",
+        "Meme"
+      ]
+    }
+  ]
+}
+
+
+
+

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "374739068659",
+    "project_id": "websticker-f1abe",
+    "storage_bucket": "websticker-f1abe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374739068659:android:89a808d61f682f2a3ab986",
+        "android_client_info": {
+          "package_name": "com.example.websitesticker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374739068659-8qfnh98flsrpmrl9kptftlm42hv83lsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmloNe5g6zD4M7nFNmlZGH78qA-vJY5xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374739068659-8qfnh98flsrpmrl9kptftlm42hv83lsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

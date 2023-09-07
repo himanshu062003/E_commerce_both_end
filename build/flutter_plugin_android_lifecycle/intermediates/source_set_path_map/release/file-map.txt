@@ -1,0 +1,12 @@
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-window-java-1.0.0-beta04-0 C:\Users\HIMANSHU  CHAUDHARY\.gradle\caches\transforms-3\1ab2fa80a07ee208fbcb24f1da84ee0e\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-core-1.6.0-1 C:\Users\HIMANSHU  CHAUDHARY\.gradle\caches\transforms-3\4e5d82e5a4af7000fc32f970b598273e\transformed\core-1.6.0\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-window-1.0.0-beta04-2 C:\Users\HIMANSHU  CHAUDHARY\.gradle\caches\transforms-3\d1874c397e5d73ca2692b95e49b4ce4e\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-annotation-experimental-1.1.0-3 C:\Users\HIMANSHU  CHAUDHARY\.gradle\caches\transforms-3\e3f72007886575bf36c6d303408a2981\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-pngs-4 C:\Users\HIMANSHU  CHAUDHARY\AndroidStudioProjects\websitesticker\build\flutter_plugin_android_lifecycle\generated\res\pngs\release
+io.flutter.plugins.flutter_plugin_android_lifecycle-resValues-5 C:\Users\HIMANSHU  CHAUDHARY\AndroidStudioProjects\websitesticker\build\flutter_plugin_android_lifecycle\generated\res\resValues\release
+io.flutter.plugins.flutter_plugin_android_lifecycle-rs-6 C:\Users\HIMANSHU  CHAUDHARY\AndroidStudioProjects\websitesticker\build\flutter_plugin_android_lifecycle\generated\res\rs\release
+io.flutter.plugins.flutter_plugin_android_lifecycle-mergeReleaseResources-7 C:\Users\HIMANSHU  CHAUDHARY\AndroidStudioProjects\websitesticker\build\flutter_plugin_android_lifecycle\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.flutter_plugin_android_lifecycle-mergeReleaseResources-8 C:\Users\HIMANSHU  CHAUDHARY\AndroidStudioProjects\websitesticker\build\flutter_plugin_android_lifecycle\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.flutter_plugin_android_lifecycle-merged_res-9 C:\Users\HIMANSHU  CHAUDHARY\AndroidStudioProjects\websitesticker\build\flutter_plugin_android_lifecycle\intermediates\merged_res\release
+io.flutter.plugins.flutter_plugin_android_lifecycle-main-10 C:\Users\HIMANSHU  CHAUDHARY\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.16\android\src\main\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-release-11 C:\Users\HIMANSHU  CHAUDHARY\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.16\android\src\release\res

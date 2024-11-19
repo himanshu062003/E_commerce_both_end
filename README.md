@@ -1,4 +1,3 @@
-# sds_submission
 # E-Commerce Mobile Application
 
 ## Table of Contents
